@@ -27,7 +27,7 @@ SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:SinarPandora@outlook.com'
   #weixin: '' # 你的微信二维码存放的地址
-  qq: 'http://wpa.qq.com/msgrd?v=3&uin=1211402231&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  qq: 'https://tva1.sinaimg.cn/large/006y8mN6ly1g7gv1q7d0sj30f00kkgnb.jpg' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: 'https://github.com/SinarPandora'
   #Codepen: ''
   weibo: 'https://weibo.com/chenxilimiao/profile'
