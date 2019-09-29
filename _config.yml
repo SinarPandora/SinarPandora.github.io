@@ -1,13 +1,13 @@
 # Site settings 配置站点
 title: '实验室'
-description: 'your web description'
-keywords: 'your web keywords, another keywords'
-url: 'https://abc.github.io' # your host
+description: '喵君的实验室，堆放胡思乱想的地方'
+keywords: '喵君, 实验室, 个人主页, 欣阳喵'
+url: 'https://sinarpandora.github.io' # your host
 
 # nav 中文字符空格：&emsp;
 nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
   首页: '/'
-  标签: '/tags.html'
+  关键词: '/tags.html'
   时间线: '/timeline.html'
   关于博主: '/about.html'
   友情链接: '/friendLink.html'
@@ -27,17 +27,17 @@ SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
   mail: 'mailto:SinarPandora@outlook.com'
   #weixin: '' # 你的微信二维码存放的地址
-  qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
-  github: ''
+  qq: 'http://wpa.qq.com/msgrd?v=3&uin=1211402231&site=qq&menu=yes' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
+  github: 'https://github.com/SinarPandora'
   #Codepen: ''
-  weibo: ''
+  weibo: 'https://weibo.com/chenxilimiao/profile'
   #instagram: ''
-  Twitter: ''
+  Twitter: 'https://twitter.com/sinar_pandora'
   #Dribbble: ''
   #Facebook: ''
   #Google: ''
-  zhihu: ''
-  juejin: ''
+  zhihu: 'https://www.zhihu.com/people/sinar_pandora/activities'
+  juejin: 'https://juejin.im/user/5a12a99c6fb9a04529365e36'
   #twitch: ''
 
 # 分页
