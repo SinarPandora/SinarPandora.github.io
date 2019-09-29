@@ -3,7 +3,7 @@ layout: post
 title:  一见倾心的 Scala I/O 开源库：Better-Files（官方文档翻译）
 date:   2018-07-30
 tags: scala 翻译 类库 better-file
-color: rgb(255,90,90)
+color: rgb(146,180,119)
 ---
 
 > 对于 Scala 开发者来说，I/O 操作，如文件的读写通常采用内置的 scala.io.Source API 来实现。但其功能欠缺，而且并不是那么方便（甚至有删除该 API 的提案）。而直接使用 Java 的 io/nio API 又要面对速度慢的问题，以及返回 null，抛出异常等非 Scala 风格设计。
