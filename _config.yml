@@ -1,5 +1,5 @@
 # Site settings 配置站点
-title: 'Aha'
+title: '实验室'
 description: 'your web description'
 keywords: 'your web keywords, another keywords'
 url: 'https://abc.github.io' # your host
@@ -14,34 +14,34 @@ nav: # 最佳体验 六个标签 且最好每个标签不超过4中文字
 
 # 博主
 author: true
-name: 'your awesome name'
-NickName: 'your awesome nickname'
+name: '欣阳喵'
+NickName: '喵君'
 webtitle: 'println "Hello friend!"'
-bio: 'your awesome bio'
+bio: '- Sinar Pandora -'
 about: true
-aboutyou: 'your introduction'
+aboutyou: '如果你对我很好奇：'
 portraits: '/assets/profile.png' # your portraits image file path
 
 # SNS
 SNS: true
 SNS-icon: #['Facebook', 'weibo', 'qq', 'github', 'Dribbble', 'Twitter', 'instagram', 'weixin', 'Codepen']
-  mail: 'mailto:abc@gmail.com'
-  weixin: '' # 你的微信二维码存放的地址
+  mail: 'mailto:SinarPandora@outlook.com'
+  #weixin: '' # 你的微信二维码存放的地址
   qq: '' # 你的qq二维码存放的地址 or http://wpa.qq.com/msgrd?v=3&uin='你的QQ号'&site=qq&menu=yes
   github: ''
-  Codepen: ''
+  #Codepen: ''
   weibo: ''
-  instagram: ''
+  #instagram: ''
   Twitter: ''
-  Dribbble: ''
-  Facebook: ''
-  Google: ''
+  #Dribbble: ''
+  #Facebook: ''
+  #Google: ''
   zhihu: ''
   juejin: ''
-  twitch: ''
+  #twitch: ''
 
 # 分页
-paginate: 2
+paginate: 4
 paginatepath: ['page:num']
 
 # since
@@ -67,7 +67,7 @@ disqus: false
 disqus_url: '' # https://abc.disqus.com/embed.js
 # 来必力评论
 livere: true
-livere_uid: 'MTAyMC8zNDI2OS8xMDgwNg==' # MTAyMC8zNDI2OS8xMDgwNg==
+livere_uid: 'MTAyMC80Njg2NC8yMzM2NQ=='
 # Gitment评论 OAuth Application
 Gitment: false
 Gitment_owner: ''  # github用户名
